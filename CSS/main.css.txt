@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700');
+
+body{
+	background: #1A1F28;
+	}
+	
+header{
+	padding: 20px 15px;
+	}
+	
+#logo{
+	text align: center;
+	width: 60px;
+	height: 60px;
+	background-color: #30395C;
+	display: inline-block;
+	}
+	
+#top-nav{
+	float: right;
+	display: inline-block;
+	}
+	
+#top-nav a{
+	display: inline-block;
+	font-family:sans-serif;
+	color: #fff;
+	text-decoration: none;
+	padding:15px 15px;
+	}
+	
+#top-nav a:hover{
+	color: #85A5CC;
+	text-decration: none;
+	padding 0 15px;
+	}
+
+.jumbo{
+	padding:200px 0;
+	}	
+
+.jumbo h1{
+	font-family: 'Cabin Sketch', cursive;
+	color: #fff;
+	font-size: 50px;
+	}
+	
+.work{
+	padding: 60px 100px;
+	}
+	
+.work.box{
+	display: inline-block;
+	background:#fff;
+	width: 250px;
+	height: 250px; 
+	margin: 20 px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

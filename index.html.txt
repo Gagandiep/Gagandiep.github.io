@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<title> Gagandeep Singh's Web Development </title>
+		
+		<link rel="stylesheet" type="tec=xt/css href="css/reset.css">
+		<link rel="stylsheet" type="text/css" href="css/main.css>
+		
+	</head>
+	<body>
+		<header>
+			<div id="logo">
+			Logo 
+			</div>
+			
+			<nav id="top-nav">
+				<a href="about.html">About</a>
+				<a href="work.html">Work</a>
+				<a href="contact.html">Contact</a>
+			</nav>
+		</header>
+		
+		<div class="jumbo">
+			<h1> Welcome to my Portfolio </h1>
+		</div>
+		
+		<div class="Work">
+			<div= class="box">
+		
+			</div>
+			
+			<div= class="box">
+		
+			</div>
+			
+			<div= class="box">
+		
+			</div>
+			
+			<div= class="box">
+		
+			</div>
+			
+			<div= class="box">
+		
+			</div>
+			
+			<div= class="box">
+		
+			</div>
+		</div>
+		
+	</body>
+</html>

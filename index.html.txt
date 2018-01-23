@@ -2,7 +2,7 @@
 	<head>
 		<title> Gagandeep Singh's Web Development </title>
 		
-		<link rel="stylesheet" type="tec=xt/css href="css/reset.css">
+		<link rel="stylesheet" type="text/css href="css/reset.css">
 		<link rel="stylsheet" type="text/css" href="css/main.css>
 		
 	</head>
